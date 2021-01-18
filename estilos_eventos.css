@@ -1,0 +1,80 @@
+#plus{
+color:#164457 ;
+font-weight: 900;
+}
+
+#texto{
+    margin: 50px;
+    color: rgb(6, 77, 95);
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#tarjetas{
+    display: flex;
+    justify-content: center;
+
+}
+
+.tarjetas img{
+    justify-content: center;
+    
+}
+.tarjetas{
+    width:10cm;
+    height: 20cm;
+    margin: 0 30px;
+    background:rgb(14, 134, 190);
+    padding: 50px;
+    border-radius: 30px;
+    
+}
+
+h2{
+    text-align: center;
+    color: aquamarine;
+}
+
+.información{
+    text-align: justify;
+
+    color:#9DD2E7;
+}
+
+.link{
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: 20px;
+ }
+
+ .link2{
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: 150px;
+ }
+
+ .link3{
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: 100px;
+ }
+
+    .ver{
+        
+     border: 3px solid #fff;
+     padding: 20px;
+     text-decoration: none;
+     color: #fff;
+     border-radius: 30px;
+     display: inline-block;
+     font-weight: bold;
+     justify-content: center;
+ }
+ 
+ a.ver:active{
+     background-color: rgb(103, 186, 197);
+ }
+ 
+ a.ver:hover{
+     background-color: rgb(103, 186, 197);
+ }

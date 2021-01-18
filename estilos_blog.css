@@ -1,0 +1,85 @@
+.izquierdo{
+    background: #226B88;
+       height: 51.5vh;
+       width: 55%;
+       
+   }
+   
+   
+   .derecho{
+       background-size:cover;
+       background-position: center;
+       width: 45%;
+       height: 40vh;
+      
+   }
+   #divicion-pantalla{
+       display:flex;
+       margin: 40px;
+   }
+   h1{
+       margin: 50px;
+       color:antiquewhite;
+       font-size: 20px;
+       width: 50%;
+   }
+   .titulos{
+       color:#9DD2E7;
+       font-size: 30px;
+   }
+   p{
+       color:antiquewhite;
+       margin:20px;
+       text-align:justify;
+       font-size: 14px;
+       line-height: 1.5;
+       letter-spacing: 1px;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   
+   
+   .izquierdo2{
+    background: #3097BF;
+       height: 51.5vh;
+       width: 55%;
+     
+   }
+   
+   
+   .derecho2{
+       background-size:cover;
+       background-position: center;
+       width: 45%;
+       height: 40vh;
+       
+   
+   }
+   #divicion-pantalla2{
+       display:flex;
+       margin: 40px;
+   }
+
+   .izquierdo3{
+    background: #226B88;
+       height: 51.5vh;
+       width: 55%;
+     
+   }
+   
+   
+   .derecho3{
+       background-size:cover;
+       background-position: center;
+       width: 45%;
+       height: 40vh;
+       
+   
+   }
+   #divicion-pantalla3{
+       display:flex;
+       margin: 40px;
+   }
+
+   a{
+       text-decoration: none;
+   }

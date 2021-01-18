@@ -1,0 +1,109 @@
+
+
+.somos{
+    background: rgb(28, 151, 151);
+    border:3px solid;
+    text-decoration: none;
+    color: #fff;
+    border-color: #fff;
+    /*alto*/
+    height: 400px;
+    width: 500px;
+    border-radius: 30px;
+    
+}
+
+.imgSomos{
+    margin-left:-10;
+    margin-top: -30px;
+    widows: 300px; 
+    height:300px;
+    
+}
+#Encuesta{
+    line-height:250px;
+    border:3px solid;
+    text-decoration: none;
+    color: #fff;
+    border-color: #fff;
+    margin-left:500px;
+    margin-top:-400px;
+     background-color: #3BA4CE;
+     border-radius: 30px;
+     line-height: 2.5;
+    /*alto*/
+    height: 200px;
+    width: 200px;
+   
+}
+#podcast{
+    line-height:140px;
+    border:3px solid;
+    text-decoration: none;
+    color: #fff;
+    border-color: #fff;
+    margin-left:700px;
+    margin-top:-200px;
+    background-color: #73BEDC;
+    border-radius: 30px;
+/*alto*/
+height: 200px;
+width: 200px;
+
+
+}
+
+#UsosCreativos{
+    line-height:140px;
+    border:3px solid;
+    text-decoration: none;
+    color: #fff;
+    border-color: #fff;
+    margin-left:500px;
+    margin-top:-3px;
+    background-color: #73BEDC;
+    border-radius: 30px;
+    font-style: oblique;
+/*alto*/
+height: 200px;
+width: 200px;
+
+}
+#blog{
+    line-height:140px;
+    border:3px solid  ;
+    text-decoration: none;
+    color:#fff;
+    border-color:#fff;
+    margin-left:700px;
+    margin-top:-200px;
+    background-color: #3BA4CE;
+    border-radius: 30px;
+/*alto*/
+height: 200px;
+width: 200px;
+
+}
+
+h1{
+    color:antiquewhite;
+    text-align:center;
+    font-size: 40px;
+    font-style:oblique;
+}
+
+h3{
+    
+    color:antiquewhite;
+    font-size: 25px;
+    text-align:center;
+    text-decoration: none;
+    font-style:oblique;
+}
+a:visited{
+    color:#fff;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+}
